@@ -14,9 +14,9 @@ Transformers have been widely used in many computer vision challenges and have s
 
 # Literature Reviews of Vision Transformers for Histopathological Image Analysis
 
-| Date    | Model     |Title                                                                                                  | Code |
-| :---:   | :---:     | :---:                                                                                                 | :---:|
-| 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation        | [Code](https://github.com/pengsl-lab/DHUnet)|
+| Date    | Model     |Title                                                                                                                                               | Code |
+| :---:   | :---:     | :---:                                                                                                                                              | :---:|
+| 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation [Paper](https://doi.org/10.1016/j.bspc.2023.104976) | [Code](https://github.com/pengsl-lab/DHUnet)|
 
 
 
