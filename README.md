@@ -17,7 +17,6 @@ Transformers have been widely used in many computer vision challenges and have s
 | Date    | Model     |Title                                                                                                                                                      | Code |
 | :---:   | :---:     | :---:                                                                                                                                                     | :---:|
 | 202309  | SSTCL    | Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images [(Paper)](https://ieeexplore.ieee.org/document/10247346) | None |
-| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
 | 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation [(Paper)](https://doi.org/10.1016/j.bspc.2023.104976)      | [Code](https://github.com/pengsl-lab/DHUnet)|
 
 
