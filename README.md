@@ -14,6 +14,12 @@ Transformers have been widely used in many computer vision challenges and have s
 
 
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
+
+
 #   Contact
 mecusbans@gmail.com
 
