@@ -12,11 +12,13 @@ Transformers have been widely used in many computer vision challenges and have s
 # Recently Transformer-based architectures for histopathological image analysis
 ![figure_6](https://github.com/S-domain/Survey-Paper/assets/104261511/c8d9d41a-6d62-4b7f-a355-a670a68bbfce)
 
+# Literature Reviews of Vision Transformers for Histopathological Image Analysis
+
+| Date    | Authors |Title    | Code |
+| :---:   | :---:   | :---: | :---:   |
+| Seconds | 301     | 283   | Seconds |
 
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
 
 
 
