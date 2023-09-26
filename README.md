@@ -1,6 +1,6 @@
 # A survey of Transformer applications for histopathological image analysis: New developments and future directions
 
-Transformers have been widely used in many computer vision challenges and have shown the capability of producing better results than convolutional neural networks (CNNs). Taking advantage of capturing long-range contextual information and learning more complex relations in the image data, Transformers have been used and applied to histopathological image processing tasks. In this survey, we make an effort to present a thorough analysis of the uses of Transformers in histopathological image analysis, covering several topics, from the newly built Transformer models to unresolved challenges. To be more precise, we first begin by outlining the fundamental principles of the attention mechanism included in Transformer models and other key frameworks. Second, we analyze Transformer-based applications in the histopathological imaging domain and provide a thorough evaluation of more than 100 research publications across different downstream tasks to cover the most recent innovations, including survival analysis and prediction, segmentation, classification, detection, and representation. [Paper link](https://doi.org/10.1186/s12938-023-01157-0)
+Transformers have been widely used in many computer vision challenges and have shown the capability of producing better results than convolutional neural networks (CNNs). Taking advantage of capturing long-range contextual information and learning more complex relations in the image data, Transformers have been used and applied to histopathological image processing tasks. In this survey, we make an effort to present a thorough analysis of the uses of Transformers in histopathological image analysis, covering several topics, from the newly built Transformer models to unresolved challenges. To be more precise, we first begin by outlining the fundamental principles of the attention mechanism included in Transformer models and other key frameworks. Second, we analyze Transformer-based applications in the histopathological imaging domain and provide a thorough evaluation of more than 100 research publications across different downstream tasks to cover the most recent innovations, including survival analysis and prediction, segmentation, classification, detection, and representation. [(Paper link)](https://doi.org/10.1186/s12938-023-01157-0)
 
 # Current Transformer applications in histopathological image analysis, as surveyed in this research work
 
@@ -12,11 +12,14 @@ Transformers have been widely used in many computer vision challenges and have s
 # Recently Transformer-based architectures for histopathological image analysis
 ![figure_6](https://github.com/S-domain/Survey-Paper/assets/104261511/c8d9d41a-6d62-4b7f-a355-a670a68bbfce)
 
-# Literature Reviews of Vision Transformers for Histopathological Image Analysis
+# Literature Reviews of Vision Transformers for Histopathological Image Analysis 
 
 | Date    | Model     |Title                                                                                                                                               | Code |
 | :---:   | :---:     | :---:                                                                                                                                              | :---:|
-| 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation [Paper](https://doi.org/10.1016/j.bspc.2023.104976) | [Code](https://github.com/pengsl-lab/DHUnet)|
+| 202309  | SSTCL    | Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images [(Paper)](https://ieeexplore.ieee.org/document/10247346) | [None]()|
+| :---:   | :---:     | :---:                                                                                                                                              | :---:|
+| 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation [(Paper)](https://doi.org/10.1016/j.bspc.2023.104976) | [Code](https://github.com/pengsl-lab/DHUnet)|
+
 
 
 
