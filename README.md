@@ -1,4 +1,5 @@
-# Survey-Paper
+# A survey of Transformer applications for histopathological image analysis: New developments and future directions
 
-#  In order to aid future research, we will keep an active repository that contains an up-to-date paper list summary, which will be made available soon.
+Transformers have been widely used in many computer vision challenges and have shown the capability of producing better results than convolutional neural networks (CNNs). Taking advantage of capturing long-range contextual information and learning more complex relations in the image data, Transformers have been used and applied to histopathological image processing tasks. In this survey, we make an effort to present a thorough analysis of the uses of Transformers in histopathological image analysis, covering several topics, from the newly built Transformer models to unresolved challenges. To be more precise, we first begin by outlining the fundamental principles of the attention mechanism included in Transformer models and other key frameworks. Second, we analyze Transformer-based applications in the histopathological imaging domain and provide a thorough evaluation of more than 100 research publications across different downstream tasks to cover the most recent innovations, including survival analysis and prediction, segmentation, classification, detection, and representation.
+
 
