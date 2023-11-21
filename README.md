@@ -19,7 +19,21 @@ Transformers have been widely used in many computer vision challenges and have s
 | 202309  | SSTCL    | Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images [(Paper)](https://ieeexplore.ieee.org/document/10247346) | None |
 | 202304 | DHUnet    | DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation [(Paper)](https://doi.org/10.1016/j.bspc.2023.104976)      | [Code](https://github.com/pengsl-lab/DHUnet)|
 
+#Histopathological Image Datasets
 
+| Year    | Dataset     | Tissue                                                                                                                                                   | Link|
+| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
+| 2020  | HE-GHI-DS   | Gastric | [Link](https://data.mendeley.com/datasets/thgf23xgy7/2) |
+| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
+| 2021  | TCGA-KIRP  | Kidney| [Link](https://dataset.chenli.group/) |
+| 2016 | KCCH  | Colorectal | [Link](https://zenodo.org/record/53169#.Y7Gf4hpfiUk) |
+| 2021  | MHIST | Colorectal | [Link](https://bmirds.github.io/MHIST/) |
+| 2021  | GasHisSDB | Gastric | [Link](https://gitee.com/neuhwm/GasHisSDB) |
+| 2021  | UniToPatho | Colorectal | [Link](https://ieee-dataport.org/open-access/unitopatho) |
+| 2020  | TissueNet | Colorectal | [Link](https://www.drivendata.org/competitions/67/competition-cervical-biopsy/page/254/) |
+| 2018  | NCT-CRC-HE| Colorectal | [Link](https://zenodo.org/record/1214456#.Y7JSaRpfiU) |
+| 2016  | CRC| Colorectal | [Link](https://zenodo.org/record/53169#.Y-K8ABpfiUm) |
+| 2021  | TCGA-RCC | Kidney | [Link](https://gdc.cancer.gov/) |
 
 
 
