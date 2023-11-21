@@ -24,8 +24,7 @@ Transformers have been widely used in many computer vision challenges and have s
 
 | Year    | Dataset     | Tissue                                                                                                                                                   | Link|
 | :---:   | :---:     | :---:                                                                                                                                                     | :---:|
-| 2020  | HE-GHI-DS   | Gastric | [Link](https://data.mendeley.com/datasets/thgf23xgy7/2) |
-| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
+| 2020  | HE-GHI-DS   | Gastric | [Link](https://data.mendeley.com/datasets/thgf23xgy7/2) |  
 | 2021  | TCGA-KIRP  | Kidney| [Link](https://dataset.chenli.group/) |
 | 2016 | KCCH  | Colorectal | [Link](https://zenodo.org/record/53169#.Y7Gf4hpfiUk) |
 | 2021  | MHIST | Colorectal | [Link](https://bmirds.github.io/MHIST/) |
@@ -35,7 +34,30 @@ Transformers have been widely used in many computer vision challenges and have s
 | 2018  | NCT-CRC-HE| Colorectal | [Link](https://zenodo.org/record/1214456#.Y7JSaRpfiU) |
 | 2016  | CRC| Colorectal | [Link](https://zenodo.org/record/53169#.Y-K8ABpfiUm) |
 | 2021  | TCGA-RCC | Kidney | [Link](https://gdc.cancer.gov/) |
-
+| 2021  | TCGA-NSCLC | Lung | [Link](https://gdc.cancer.gov/) |
+| 2021  | MIDOG | Breast | [Link](https://zenodo.org/record/4643381#.Y7MWzhpfiUk) |
+| 2016  | BreakHis | Breast | [Link](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) |
+| 2020  | IDC | Breast | [Link](https://data.mendeley.com/datasets/w7jjcx7gj6/1) |
+| 2021  | UC | Endometrial | [Link](https://figshare.com/articles/dataset/A_histopathological_image_dataset_for_endometrial_disease_diagnosis/7306361/2) |
+| 2016  | CAMELYON16 | Breast | [Link](https://camelyon16.grand-challenge.org/Home/) |
+| 2018  | BACH | Breast | [Link](https://iciar2018-challenge.grand-challenge.org/Home/) |
+| 2015  | GlaS | Colon | [Link](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest) |
+| 2018  | Pcam | Lymph Node Metastatic | [Link](https://github.com/basveeling/pcam) |
+| 2019  | Gleason 2019 | Prostate | [Link](https://gleason2019.grand-challenge.org/Home/) |
+| 2019  | NCT-CRC-HE | Colon | [Link](http://dx.doi.org/10.5281/zenodo.1214456) |
+| 2019  | PAIP-2019 | Liver | [Link](https://paip2019.grand-challenge.org/Home/) |
+| 2020  | MoNuSAC | Lung, breast, etc | [Link](https://monusac-2020.grand-challenge.org/Home/) |
+| 2020  | PANDA | Prostate | [Link](https://www.kaggle.com/c/prostate-cancer-grade-assessment/overview) |
+| 2021  | MIDOG-2021 | Breast | [Link](https://imig.science/midog/) |
+| 2021  | NuCLS | Breast | [Link](https://nucls.grand-challenge.org/NuCLS) |
+| 2021  | PAIP-2021 | Colon, prostate | [Link](https://paip2021.grand-challenge.org/Home/) |
+| 2008  | TCGA | Different Tissues | [Link](https://gdc.cancer.gov/) |
+| 2019  | PanNuke | 19 tissue types | [Link](https://jgamper.github.io/PanNukeDataset/) |
+| 2020  | NuClick | Cell | [Link](https://warwick.ac.uk/fac/cross_fac/tia/data/nuclick/) |
+| 2020  | CRC-TP | 7 tissues types | [Link](https://warwick.ac.uk/fac/cross_fac/tia/data/crc-tp) |
+| 2018  | HER2 scoring | Breast | [Link](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) |
+| 2017  | CAMELYON17 | Breast | [Link](https://camelyon17.grand-challenge.org/Home/) |
+| 2017  | Nucleiseg | 7 Organs | [Link](https://nucleisegmentationbenchmark.weebly.com/) |
 
 
 
