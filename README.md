@@ -22,8 +22,8 @@ Transformers have been widely used in many computer vision challenges and have s
 
 # Histopathological Image Datasets
 
-| Year    | Dataset     | Tissue                                                                                                                                                   | Link|
-| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
+| Year    | Dataset     | Tissue  Type                           | Link|
+| :---:   | :---:     | :---:                                                          | :---:|
 | 2020  | HE-GHI-DS   | Gastric | [Link](https://data.mendeley.com/datasets/thgf23xgy7/2) |  
 | 2021  | TCGA-KIRP  | Kidney| [Link](https://dataset.chenli.group/) |
 | 2016 | KCCH  | Colorectal | [Link](https://zenodo.org/record/53169#.Y7Gf4hpfiUk) |
